@@ -1,0 +1,7 @@
+D:\04. Proyectos\CSharpIntermediate\AnonymousType\AnonymousType\bin\Debug\AnonymousType.exe.config
+D:\04. Proyectos\CSharpIntermediate\AnonymousType\AnonymousType\bin\Debug\AnonymousType.exe
+D:\04. Proyectos\CSharpIntermediate\AnonymousType\AnonymousType\bin\Debug\AnonymousType.pdb
+D:\04. Proyectos\CSharpIntermediate\AnonymousType\AnonymousType\obj\Debug\AnonymousType.csprojAssemblyReference.cache
+D:\04. Proyectos\CSharpIntermediate\AnonymousType\AnonymousType\obj\Debug\AnonymousType.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\CSharpIntermediate\AnonymousType\AnonymousType\obj\Debug\AnonymousType.exe
+D:\04. Proyectos\CSharpIntermediate\AnonymousType\AnonymousType\obj\Debug\AnonymousType.pdb

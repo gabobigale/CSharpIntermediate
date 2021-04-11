@@ -1,0 +1,7 @@
+D:\04. Proyectos\CSharpIntermediate\Enumerations\Enumerations\bin\Debug\Enumerations.exe.config
+D:\04. Proyectos\CSharpIntermediate\Enumerations\Enumerations\bin\Debug\Enumerations.exe
+D:\04. Proyectos\CSharpIntermediate\Enumerations\Enumerations\bin\Debug\Enumerations.pdb
+D:\04. Proyectos\CSharpIntermediate\Enumerations\Enumerations\obj\Debug\Enumerations.csprojAssemblyReference.cache
+D:\04. Proyectos\CSharpIntermediate\Enumerations\Enumerations\obj\Debug\Enumerations.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\CSharpIntermediate\Enumerations\Enumerations\obj\Debug\Enumerations.exe
+D:\04. Proyectos\CSharpIntermediate\Enumerations\Enumerations\obj\Debug\Enumerations.pdb

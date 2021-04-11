@@ -1,0 +1,7 @@
+D:\04. Proyectos\ClassesConstructors\ClassesConstructors\bin\Debug\ClassesConstructors.exe.config
+D:\04. Proyectos\ClassesConstructors\ClassesConstructors\bin\Debug\ClassesConstructors.exe
+D:\04. Proyectos\ClassesConstructors\ClassesConstructors\bin\Debug\ClassesConstructors.pdb
+D:\04. Proyectos\ClassesConstructors\ClassesConstructors\obj\Debug\ClassesConstructors.csprojAssemblyReference.cache
+D:\04. Proyectos\ClassesConstructors\ClassesConstructors\obj\Debug\ClassesConstructors.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\ClassesConstructors\ClassesConstructors\obj\Debug\ClassesConstructors.exe
+D:\04. Proyectos\ClassesConstructors\ClassesConstructors\obj\Debug\ClassesConstructors.pdb

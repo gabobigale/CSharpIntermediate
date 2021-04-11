@@ -1,0 +1,7 @@
+D:\04. Proyectos\CSharpIntermediate\Properties\Properties\bin\Debug\Properties.exe.config
+D:\04. Proyectos\CSharpIntermediate\Properties\Properties\bin\Debug\Properties.exe
+D:\04. Proyectos\CSharpIntermediate\Properties\Properties\bin\Debug\Properties.pdb
+D:\04. Proyectos\CSharpIntermediate\Properties\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+D:\04. Proyectos\CSharpIntermediate\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\CSharpIntermediate\Properties\Properties\obj\Debug\Properties.exe
+D:\04. Proyectos\CSharpIntermediate\Properties\Properties\obj\Debug\Properties.pdb
